@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghazy Rajendra
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link/giphy.gif](https://tenor.com/gAhZ2PwBCtT.gif" width="300"/>
+  <img src="" width="300"/>
 </p>
 
 ---
@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazy-rajendra&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy-rajendra&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
