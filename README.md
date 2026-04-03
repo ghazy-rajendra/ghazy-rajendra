@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghazy Rajendra
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Sss_zh936J8AAAAC/black-white.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/Sss_zh936J8AAAAC/black-white.gif" style="height: 230px; width: 930px;"/>
 </p>
 
 ---
@@ -24,8 +24,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-<img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ghazy-rajendra?cardType=github&theme=dark&fontFamily=Cairo%20Play&preferLogin=false"/>
+</p>
 
 ---
 
