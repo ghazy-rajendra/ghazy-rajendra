@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Nama Kamu]
+# 👋 Hi, I'm Ghazy Rajendra
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/your-gif-link/giphy.gif](https://tenor.com/gAhZ2PwBCtT.gif" width="300"/>
 </p>
 
 ---
