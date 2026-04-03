@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghazy Rajendra
 
 <p align="center">
-  <img src="" width="300"/>
+  <img src="https://media1.tenor.com/m/Sss_zh936J8AAAAC/black-white.gif" width="300"/>
 </p>
 
 ---
@@ -26,8 +26,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazy-rajendra&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy-rajendra&layout=compact&theme=tokyonight"/>
+  <img src=""/>
 </p>
 
 ---
@@ -35,7 +34,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ghazy-rajendra&theme=tokyonight"/>
 </p>
 
 ---
@@ -52,14 +51,6 @@
 <p>
   <a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://instagram.com/USERNAME"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-</p>
-
----
-
-## 🐍 Contribution Snake (Optional)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
