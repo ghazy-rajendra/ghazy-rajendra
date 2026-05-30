@@ -41,7 +41,7 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ghazy-rajendra"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://instagram.com/USERNAME"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
